@@ -351,13 +351,19 @@ hr {
     filter: invert(100%);
 }
 
+content-center {
+    display: flex;
+    justify-content: center;
+    gap: 14px;
+}
+
 .content-center img:hover {
     background: linear-gradient(180deg, #fc0202, rgb(167, 159, 159));
     border-radius: 50%;
 }
 
-.links {
-    margin: 20px;
+links {
+    height: 24px;
 }
 
 footer {
