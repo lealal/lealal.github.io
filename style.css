@@ -384,6 +384,11 @@ footer {
 .about-item {
     width: 60%;
 }
+
+.agent-link {
+    color: #017a98;
+    text-decoration: none;
+}
  
 @media (max-width: 900px){
     .container {
